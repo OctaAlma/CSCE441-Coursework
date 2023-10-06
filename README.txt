@@ -2,7 +2,8 @@ To run the assignments, you must have the following C++ libraries:
  - GLEW
  - GLM
  - GLFW
- - CMAKE
+
+You must also have the CMAKE build tool installed.
 
 To compile a specific assignment:
  - Go into the assignment folder
