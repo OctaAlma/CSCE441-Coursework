@@ -2,6 +2,7 @@ To run the assignments, you must have the following C++ libraries:
  - GLEW
  - GLM
  - GLFW
+ - CMAKE
 
 To compile a specific assignment:
  - Go into the assignment folder
