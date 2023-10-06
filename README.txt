@@ -1,4 +1,4 @@
-To run the assignments, I require the following libraries:
+To run the assignments, you must have the following C++ libraries:
  - GLEW
  - GLM
  - GLFW
